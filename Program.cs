@@ -71,7 +71,39 @@ else
         logger.Info("User choice: {Choice}", choice);
         if (choice == "1")
         {
-            // Add Character
+            
+
+
+
+       Console.WriteLine("Enter new character name: ");
+            string? Name = Console.ReadLine();
+
+             Console.WriteLine("Enter a description: ");
+            string? Description = Console.ReadLine();
+
+            Console.WriteLine("specie: ");
+            string? SpeciesInput = Console.ReadLine();
+
+            Console.WriteLine("First appearence : ");
+            string? firstappearance1 = Console.ReadLine();
+
+            Console.WriteLine("Year appearence : ");
+            string? yearcreated1 = Console.ReadLine();
+            /////////////////////////////////////
+            if (!string.IsNullOrEmpty(Name)){
+
+        
+                UInt64 Id = Ids.Max() + 1;
+                Console.WriteLine($"{Id}, {Name},{Description},{SpeciesInput},{firstappearance1},{yearcreated1}");
+            } else {
+                logger.Error("You must enter a name");
+            }
+
+
+
+
+
+
         }
         else if (choice == "2")
         {

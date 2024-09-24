@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MarioWeek")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aac12ce1757b30508941a295ea6babd5177694d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+148d963547c6430ca31475c48b8a547aabecadaf")]
 [assembly: System.Reflection.AssemblyProductAttribute("MarioWeek")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MarioWeek")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

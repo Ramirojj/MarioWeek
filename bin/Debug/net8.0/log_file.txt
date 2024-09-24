@@ -66,3 +66,57 @@
 2024-09-24 07:10:25.6941|INFO|MarioWeek.Program|Program ended
 2024-09-24 07:10:46.7130|INFO|MarioWeek.Program|Program started
 2024-09-24 07:10:50.7455|INFO|MarioWeek.Program|User choice: "2"
+2024-09-24 07:14:40.3085|INFO|MarioWeek.Program|User choice: "clear"
+2024-09-24 07:14:40.3129|INFO|MarioWeek.Program|Program ended
+2024-09-24 07:14:44.1222|INFO|MarioWeek.Program|Program started
+2024-09-24 07:14:54.5924|INFO|MarioWeek.Program|User choice: "1"
+2024-09-24 07:15:02.5358|INFO|MarioWeek.Program|User choice: "student"
+2024-09-24 07:15:02.5367|INFO|MarioWeek.Program|Program ended
+2024-09-24 07:16:04.0779|INFO|MarioWeek.Program|Program started
+2024-09-24 07:16:05.7122|INFO|MarioWeek.Program|User choice: "2"
+2024-09-24 07:16:08.9646|INFO|MarioWeek.Program|User choice: "2"
+2024-09-24 07:16:11.7275|INFO|MarioWeek.Program|User choice: "2"
+2024-09-24 07:16:12.6341|INFO|MarioWeek.Program|User choice: "2"
+2024-09-24 07:16:14.0397|INFO|MarioWeek.Program|User choice: "2"
+2024-09-24 07:16:15.5825|INFO|MarioWeek.Program|User choice: "2"
+2024-09-24 07:17:23.2113|INFO|MarioWeek.Program|User choice: "1"
+2024-09-24 07:17:32.2940|INFO|MarioWeek.Program|User choice: ""
+2024-09-24 07:17:32.2964|INFO|MarioWeek.Program|Program ended
+2024-09-24 07:19:46.2837|INFO|MarioWeek.Program|Program started
+2024-09-24 07:19:48.6470|INFO|MarioWeek.Program|User choice: "1"
+2024-09-24 07:23:33.8605|INFO|MarioWeek.Program|User choice: "clear"
+2024-09-24 07:23:33.8625|INFO|MarioWeek.Program|Program ended
+2024-09-24 07:29:06.6402|INFO|MarioWeek.Program|Program started
+2024-09-24 07:30:50.6968|INFO|MarioWeek.Program|User choice: "1"
+2024-09-24 07:30:58.9765|INFO|MarioWeek.Program|User choice: "1"
+2024-09-24 07:31:08.5912|INFO|MarioWeek.Program|User choice: "1"
+2024-09-24 07:33:27.9472|INFO|MarioWeek.Program|User choice: "clear"
+2024-09-24 07:33:27.9501|INFO|MarioWeek.Program|Program ended
+2024-09-24 07:37:51.5179|INFO|MarioWeek.Program|Program started
+2024-09-24 07:37:54.5648|INFO|MarioWeek.Program|User choice: "1"
+2024-09-24 07:38:00.1208|INFO|MarioWeek.Program|User choice: "clear"
+2024-09-24 07:38:00.1218|INFO|MarioWeek.Program|Program ended
+2024-09-24 07:39:39.5083|INFO|MarioWeek.Program|Program started
+2024-09-24 07:39:40.1675|INFO|MarioWeek.Program|User choice: "1"
+2024-09-24 07:39:44.5324|INFO|MarioWeek.Program|User choice: "clear"
+2024-09-24 07:39:44.5324|INFO|MarioWeek.Program|Program ended
+2024-09-24 07:42:44.7157|INFO|MarioWeek.Program|Program started
+2024-09-24 07:42:47.8653|INFO|MarioWeek.Program|User choice: "1"
+2024-09-24 07:44:11.1516|INFO|MarioWeek.Program|User choice: "clear"
+2024-09-24 07:44:11.1532|INFO|MarioWeek.Program|Program ended
+2024-09-24 07:50:16.9000|INFO|MarioWeek.Program|Program started
+2024-09-24 07:50:18.7760|INFO|MarioWeek.Program|User choice: "1"
+2024-09-24 07:52:22.8080|INFO|MarioWeek.Program|User choice: "clear"
+2024-09-24 07:52:22.8100|INFO|MarioWeek.Program|Program ended
+2024-09-24 07:53:32.4048|INFO|MarioWeek.Program|Program started
+2024-09-24 07:53:34.5926|INFO|MarioWeek.Program|User choice: "1"
+2024-09-24 07:55:24.5164|INFO|MarioWeek.Program|User choice: "clear"
+2024-09-24 07:55:24.5197|INFO|MarioWeek.Program|Program ended
+2024-09-24 07:55:29.9963|INFO|MarioWeek.Program|Program started
+2024-09-24 07:55:32.5961|INFO|MarioWeek.Program|User choice: "1"
+2024-09-24 07:56:19.2588|INFO|MarioWeek.Program|User choice: "clear"
+2024-09-24 07:56:19.2619|INFO|MarioWeek.Program|Program ended
+2024-09-24 07:56:24.7657|INFO|MarioWeek.Program|Program started
+2024-09-24 07:56:27.2174|INFO|MarioWeek.Program|User choice: "1"
+2024-09-24 07:56:33.9747|INFO|MarioWeek.Program|User choice: "clear"
+2024-09-24 07:56:33.9747|INFO|MarioWeek.Program|Program ended
