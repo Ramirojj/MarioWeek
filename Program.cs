@@ -102,7 +102,25 @@ else
                 {
                     // generate id - use max value in Ids + 1
                     UInt64 Id = Ids.Max() + 1;
-                    Console.WriteLine($"{Id}, {Name},{Description},{SpeciesInput},{firstappearance1},{yearcreated1}");
+                    //Console.WriteLine($"{Id}, {Name},{Description},{SpeciesInput},{firstappearance1},{yearcreated1}");
+                      // Console.WriteLine($"{Id}, {Name}, {Description}");
+                    // create file from data
+                    StreamWriter sw = new(file, true);
+                    sw.WriteLine($"{Id},{Name},{Description},{SpeciesInput},{firstappearance1},{yearcreated1}");
+                    sw.Close();
+                    // add new character details to Lists
+                    Ids.Add(Id);
+                    Names.Add(Name);
+                     Descriptions.Add(Description);
+                     Species.Add(SpeciesInput);
+                        firstappearance.Add(firstappearance1);
+                          yearcreated.Add(yearcreated1);
+                       //firstappearance.Add(firstappearance);
+                       // yearcreated.Add(yearcreated);
+                    // log transaction
+                    logger.Info($"Character id {Id} added");
+
+
                 }
 
         

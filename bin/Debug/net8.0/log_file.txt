@@ -138,3 +138,104 @@
 2024-09-24 08:10:26.1247|INFO|MarioWeek.Program|Program started
 2024-09-24 08:10:28.1692|INFO|MarioWeek.Program|User choice: "1"
 2024-09-24 08:11:41.1047|INFO|MarioWeek.Program|Duplicate name Bowser
+2024-09-24 08:15:20.5240|INFO|MarioWeek.Program|User choice: "clear"
+2024-09-24 08:15:20.5261|INFO|MarioWeek.Program|Program ended
+2024-09-24 08:18:26.8743|INFO|MarioWeek.Program|Program started
+2024-09-24 08:19:05.0097|INFO|MarioWeek.Program|User choice: "1"
+2024-09-24 08:23:56.1314|INFO|MarioWeek.Program|Duplicate name mario
+2024-09-24 08:23:58.9138|INFO|MarioWeek.Program|User choice: "clear"
+2024-09-24 08:23:58.9141|INFO|MarioWeek.Program|Program ended
+2024-09-24 08:24:03.9533|INFO|MarioWeek.Program|Program started
+2024-09-24 08:24:13.9298|INFO|MarioWeek.Program|User choice: "1"
+2024-09-24 08:24:30.6306|INFO|MarioWeek.Program|Character id 14 added
+2024-09-24 08:24:38.4970|INFO|MarioWeek.Program|User choice: "2"
+2024-09-24 08:29:15.9217|INFO|MarioWeek.Program|Program started
+2024-09-24 08:29:15.9460|ERROR|MarioWeek.Program|Index was outside the bounds of the array.
+2024-09-24 08:29:22.2193|INFO|MarioWeek.Program|User choice: "2"
+2024-09-24 08:40:50.2737|INFO|MarioWeek.Program|Program started
+2024-09-24 08:40:50.2988|ERROR|MarioWeek.Program|Index was outside the bounds of the array.
+2024-09-24 08:40:59.7506|INFO|MarioWeek.Program|User choice: "2"
+2024-09-24 08:41:06.8499|INFO|MarioWeek.Program|Program started
+2024-09-24 08:41:06.8748|ERROR|MarioWeek.Program|Index was outside the bounds of the array.
+2024-09-24 08:41:08.7056|INFO|MarioWeek.Program|User choice: "1"
+2024-09-24 08:41:25.7879|INFO|MarioWeek.Program|Duplicate name ramiro
+2024-09-24 08:41:28.2384|INFO|MarioWeek.Program|User choice: "2"
+2024-09-24 08:42:55.6797|INFO|MarioWeek.Program|Program started
+2024-09-24 08:42:55.7043|ERROR|MarioWeek.Program|Index was outside the bounds of the array.
+2024-09-24 08:42:58.2115|INFO|MarioWeek.Program|User choice: "2"
+2024-09-24 08:43:07.8332|INFO|MarioWeek.Program|Program started
+2024-09-24 08:43:07.8619|ERROR|MarioWeek.Program|Index was outside the bounds of the array.
+2024-09-24 08:43:09.8432|INFO|MarioWeek.Program|User choice: "1"
+2024-09-24 08:43:25.9324|INFO|MarioWeek.Program|Character id 15 added
+2024-09-24 08:43:28.9745|INFO|MarioWeek.Program|User choice: "2"
+2024-09-24 08:44:55.1537|INFO|MarioWeek.Program|Program started
+2024-09-24 08:44:55.1783|ERROR|MarioWeek.Program|Index was outside the bounds of the array.
+2024-09-24 08:44:59.1189|INFO|MarioWeek.Program|User choice: "1"
+2024-09-24 08:45:19.0083|INFO|MarioWeek.Program|Duplicate name Ramiro
+2024-09-24 08:45:22.8815|INFO|MarioWeek.Program|User choice: "2"
+2024-09-24 08:45:44.6560|INFO|MarioWeek.Program|Program started
+2024-09-24 08:45:44.6805|ERROR|MarioWeek.Program|Index was outside the bounds of the array.
+2024-09-24 08:45:45.7982|INFO|MarioWeek.Program|User choice: "1"
+2024-09-24 08:45:59.3778|INFO|MarioWeek.Program|Character id 15 added
+2024-09-24 08:46:47.6794|INFO|MarioWeek.Program|User choice: "clear"
+2024-09-24 08:46:47.6825|INFO|MarioWeek.Program|Program ended
+2024-09-24 08:47:06.9708|INFO|MarioWeek.Program|Program started
+2024-09-24 08:47:06.9953|ERROR|MarioWeek.Program|Index was outside the bounds of the array.
+2024-09-24 08:49:15.8268|INFO|MarioWeek.Program|User choice: "clear"
+2024-09-24 08:49:15.8347|INFO|MarioWeek.Program|Program ended
+2024-09-24 08:49:22.2409|INFO|MarioWeek.Program|Program started
+2024-09-24 08:49:22.2656|ERROR|MarioWeek.Program|Index was outside the bounds of the array.
+2024-09-24 08:49:27.0307|INFO|MarioWeek.Program|User choice: "1"
+2024-09-24 08:49:31.4646|INFO|MarioWeek.Program|Character id 15 added
+2024-09-24 08:50:47.6665|INFO|MarioWeek.Program|User choice: "clear"
+2024-09-24 08:50:47.6682|INFO|MarioWeek.Program|Program ended
+2024-09-24 08:50:57.1260|INFO|MarioWeek.Program|Program started
+2024-09-24 08:50:57.1500|ERROR|MarioWeek.Program|Index was outside the bounds of the array.
+2024-09-24 08:50:59.9503|INFO|MarioWeek.Program|User choice: "1"
+2024-09-24 08:51:15.3039|INFO|MarioWeek.Program|Duplicate name Ramiro
+2024-09-24 08:51:17.5756|INFO|MarioWeek.Program|User choice: "2"
+2024-09-24 08:52:37.7261|INFO|MarioWeek.Program|Program started
+2024-09-24 08:52:37.7524|ERROR|MarioWeek.Program|Index was outside the bounds of the array.
+2024-09-24 08:52:41.8130|INFO|MarioWeek.Program|User choice: "1"
+2024-09-24 08:52:55.5936|INFO|MarioWeek.Program|Duplicate name Ramiro
+2024-09-24 08:52:57.4018|INFO|MarioWeek.Program|User choice: "2"
+2024-09-24 08:57:11.7138|INFO|MarioWeek.Program|Program started
+2024-09-24 08:57:11.7387|ERROR|MarioWeek.Program|Index was outside the bounds of the array.
+2024-09-24 08:57:18.1999|INFO|MarioWeek.Program|User choice: "1"
+2024-09-24 08:57:29.4946|INFO|MarioWeek.Program|Duplicate name ramiro
+2024-09-24 08:57:33.1133|INFO|MarioWeek.Program|User choice: "2"
+2024-09-24 08:57:55.6883|INFO|MarioWeek.Program|Program started
+2024-09-24 08:57:55.7125|ERROR|MarioWeek.Program|Index was outside the bounds of the array.
+2024-09-24 08:58:02.4635|INFO|MarioWeek.Program|User choice: "1"
+2024-09-24 08:58:13.6142|INFO|MarioWeek.Program|Duplicate name ramiro
+2024-09-24 08:58:15.4364|INFO|MarioWeek.Program|User choice: "1"
+2024-09-24 08:59:32.0947|INFO|MarioWeek.Program|Character id 15 added
+2024-09-24 08:59:34.1694|INFO|MarioWeek.Program|User choice: "2"
+2024-09-24 09:04:10.0499|INFO|MarioWeek.Program|Program started
+2024-09-24 09:04:10.0745|ERROR|MarioWeek.Program|Index was outside the bounds of the array.
+2024-09-24 09:04:13.6210|INFO|MarioWeek.Program|User choice: "2"
+2024-09-24 09:06:02.2981|INFO|MarioWeek.Program|Program started
+2024-09-24 09:06:02.3237|ERROR|MarioWeek.Program|Index was outside the bounds of the array.
+2024-09-24 09:06:04.3353|INFO|MarioWeek.Program|User choice: "1"
+2024-09-24 09:06:12.5274|INFO|MarioWeek.Program|Duplicate name ramiro
+2024-09-24 09:06:15.4696|INFO|MarioWeek.Program|User choice: "2"
+2024-09-24 09:06:41.8040|INFO|MarioWeek.Program|Program started
+2024-09-24 09:06:41.8285|ERROR|MarioWeek.Program|Index was outside the bounds of the array.
+2024-09-24 09:06:44.4931|INFO|MarioWeek.Program|User choice: "1"
+2024-09-24 09:06:58.6124|INFO|MarioWeek.Program|Character id 15 added
+2024-09-24 09:07:01.1402|INFO|MarioWeek.Program|User choice: "2"
+2024-09-24 09:07:56.8859|INFO|MarioWeek.Program|Program started
+2024-09-24 09:07:56.9104|ERROR|MarioWeek.Program|Index was outside the bounds of the array.
+2024-09-24 09:07:58.6985|INFO|MarioWeek.Program|User choice: "2"
+2024-09-24 09:08:14.1539|INFO|MarioWeek.Program|Program started
+2024-09-24 09:08:14.1783|ERROR|MarioWeek.Program|Index was outside the bounds of the array.
+2024-09-24 09:08:15.9872|INFO|MarioWeek.Program|User choice: "1"
+2024-09-24 09:08:28.8238|INFO|MarioWeek.Program|Character id 15 added
+2024-09-24 09:08:30.9468|INFO|MarioWeek.Program|User choice: "2"
+2024-09-24 09:20:17.0067|INFO|MarioWeek.Program|Program started
+2024-09-24 09:20:17.0385|ERROR|MarioWeek.Program|Index was outside the bounds of the array.
+2024-09-24 09:20:20.5326|INFO|MarioWeek.Program|User choice: "1"
+2024-09-24 09:20:38.3140|INFO|MarioWeek.Program|Character id 15 added
+2024-09-24 09:20:45.1299|INFO|MarioWeek.Program|User choice: "1"
+2024-09-24 09:21:03.8957|INFO|MarioWeek.Program|Character id 16 added
+2024-09-24 09:21:11.6822|INFO|MarioWeek.Program|User choice: "2"
