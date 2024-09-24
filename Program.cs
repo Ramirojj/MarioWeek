@@ -17,7 +17,11 @@ else
     List<string> Names = [];
     List<string> Descriptions = [];
     List<string> Species = [];
-    List<DateTime> CreationDates = [];
+    List<string> firstappearance = [];
+    List<string> yearcreated = []; 
+
+
+
        // to populate the lists with data, read from the data file
     try
     {
@@ -27,7 +31,26 @@ else
         while (!sr.EndOfStream)
         {
             string? line = sr.ReadLine();
-            Console.WriteLine(line);
+
+            ///////////
+                 if (line is not null)
+            {
+                // character details are separated with comma(,)
+                string[] characterDetails = line.Split(',');
+                // 1st array element contains id
+                Ids.Add(UInt64.Parse(characterDetails[0]));
+                // 2nd array element contains character name
+                Names.Add(characterDetails[1]);
+                // 3rd array element contains character description
+                 
+                Descriptions.Add(characterDetails[2]);
+
+                Species.Add(characterDetails[3]);
+
+                firstappearance.Add(characterDetails[4]);
+
+                yearcreated.Add(characterDetails[5]);
+            }
         }
         sr.Close();
     }
@@ -52,8 +75,25 @@ else
         }
         else if (choice == "2")
         {
-            // Display All Characters
+           ///////////////////////
+ // loop thru Lists
+            for (int i = 0; i < Ids.Count; i++)
+            {
+                // display character details
+                Console.WriteLine($"Id: {Ids[i]}");
+                Console.WriteLine($"Name: {Names[i]}");
+                Console.WriteLine($"Description: {Descriptions[i]}");
+                Console.WriteLine($"Species: {Species[i]}");
+               Console.WriteLine($"firstappearance: {firstappearance[i]}");
+                Console.WriteLine($"yearcreated: {yearcreated[i]}");
+                Console.WriteLine();
+            }
+
+/////////////////////////////////
         }
+
+
+        
     } while (choice == "1" || choice == "2");
 }
 logger.Info("Program ended");
