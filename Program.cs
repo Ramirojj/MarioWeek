@@ -11,6 +11,25 @@ if (!File.Exists(file))
 }
 else
 {
-    // TODO: create user menu
+        string? choice;
+    do
+    {
+        
+        Console.WriteLine("1) Add new Character");
+        
+        Console.WriteLine("2) Display past Characters");
+        Console.WriteLine("Enter to quit  ");
+        // input selection
+        choice = Console.ReadLine();
+        logger.Info("User choice: {Choice}", choice);
+        if (choice == "1")
+        {
+            // Add Character
+        }
+        else if (choice == "2")
+        {
+            // Display All Characters
+        }
+    } while (choice == "1" || choice == "2");
 }
 logger.Info("Program ended");
