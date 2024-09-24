@@ -11,12 +11,19 @@ if (!File.Exists(file))
 }
 else
 {
+      // create parallel lists of character details
+    // lists are used since we do not know number of lines of data/////id,name,description,species,first-appearance,year-created
+    List<UInt64> Ids = [];
+    List<string> Names = [];
+    List<string> Descriptions = [];
+    List<string> Species = [];
+    List<DateTime> CreationDates = [];
         string? choice;
     do
     {
         
         Console.WriteLine("1) Add new Character");
-        
+
         Console.WriteLine("2) Display past Characters");
         Console.WriteLine("Enter to quit  ");
         // input selection

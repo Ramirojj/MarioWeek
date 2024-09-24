@@ -7,3 +7,8 @@
 2024-09-24 05:45:53.1720|INFO|MarioWeek.Program|User choice: "clear"
 2024-09-24 05:45:53.1855|INFO|MarioWeek.Program|Program ended
 2024-09-24 05:45:57.4189|INFO|MarioWeek.Program|Program started
+2024-09-24 05:53:22.3648|INFO|MarioWeek.Program|User choice: "clear"
+2024-09-24 05:53:22.3849|INFO|MarioWeek.Program|Program ended
+2024-09-24 05:53:26.2597|INFO|MarioWeek.Program|Program started
+2024-09-24 05:53:45.5780|INFO|MarioWeek.Program|User choice: "dotnet build"
+2024-09-24 05:53:45.5898|INFO|MarioWeek.Program|Program ended
