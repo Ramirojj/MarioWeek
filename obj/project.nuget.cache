@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UmdXS/gplWM=",
+  "success": true,
+  "projectFilePath": "/Users/ramirojaimes/Week4/MarioWeek/MarioWeek.csproj",
+  "expectedPackageFiles": [
+    "/Users/ramirojaimes/.nuget/packages/nlog/5.3.3/nlog.5.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
