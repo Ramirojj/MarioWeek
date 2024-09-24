@@ -1,0 +1,5 @@
+2024-09-24 05:34:11.7301|INFO|MarioWeek.Program|Program started
+2024-09-24 05:34:11.7577|ERROR|MarioWeek.Program|File does not exist: "mario.csv"
+2024-09-24 05:34:11.7596|INFO|MarioWeek.Program|Program ended
+2024-09-24 05:36:57.2191|INFO|MarioWeek.Program|Program started
+2024-09-24 05:36:57.2439|INFO|MarioWeek.Program|Program ended
